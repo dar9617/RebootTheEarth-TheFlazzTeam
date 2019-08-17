@@ -1,0 +1,19 @@
+#Sat Aug 17 03:35:50 SGT 2019
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.5=C\:\\tensorflow-for-poets-2\\android\\tflite\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\19
+base.4=C\:\\tensorflow-for-poets-2\\android\\tflite\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\23
+base.3=C\:\\tensorflow-for-poets-2\\android\\tflite\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\18
+base.2=C\:\\tensorflow-for-poets-2\\android\\tflite\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\22
+base.1=C\:\\tensorflow-for-poets-2\\android\\tflite\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\21
+base.0=C\:\\tensorflow-for-poets-2\\android\\tflite\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\20
+file.5=C\:\\tensorflow-for-poets-2\\android\\tflite\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\19\\classes.dex
+file.4=C\:\\tensorflow-for-poets-2\\android\\tflite\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\23\\classes.dex
+file.3=C\:\\tensorflow-for-poets-2\\android\\tflite\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\18\\classes.dex
+file.2=C\:\\tensorflow-for-poets-2\\android\\tflite\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\22\\classes.dex
+file.1=C\:\\tensorflow-for-poets-2\\android\\tflite\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\21\\classes.dex
+file.0=C\:\\tensorflow-for-poets-2\\android\\tflite\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\20\\classes.dex
